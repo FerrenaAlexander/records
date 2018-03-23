@@ -1,5 +1,5 @@
-# seqlib
-code for generating simulated sequences and performing basic genomic-oriented biostats
+# records
+downloading data using GBIF REST API
 
 ### installation
 
